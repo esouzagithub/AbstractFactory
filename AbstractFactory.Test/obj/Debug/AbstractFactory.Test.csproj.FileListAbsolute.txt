@@ -1,0 +1,9 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory.Test\bin\Debug\AbstractFactory.Test.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory.Test\bin\Debug\AbstractFactory.Test.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory.Test\obj\Debug\AbstractFactory.Test.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory.Test\obj\Debug\AbstractFactory.Test.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory.Test\obj\Debug\AbstractFactory.Test.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory.Test\bin\Debug\AbstractFactory.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory.Test\bin\Debug\AbstractFactory.pdb

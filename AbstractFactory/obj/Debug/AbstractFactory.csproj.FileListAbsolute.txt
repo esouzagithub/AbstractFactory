@@ -1,0 +1,4 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
